@@ -1,8 +1,14 @@
 # kubuntu_settings
 
+## desktop
+
+rclick > configure desktop > layout > desktop
+
 ## shortcuts
 
 ### custom
+
+nada aqui
 
 ### screen locking
 
