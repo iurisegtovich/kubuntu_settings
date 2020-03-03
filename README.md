@@ -27,6 +27,10 @@ meta > "kmenuedit" > system > dolphin > advanced > shortcut > meta+e > save
 
 settings > configure kate > fonts & colors > default schema > breeze dark > apply
 
+## dolphin
+
+control > adjust view properties > view mode > (apply view properties to > all folders) > details
+
 ## quick launch
 
 rclick > panel options > add widgets > /search > "quick launch" > dclick
