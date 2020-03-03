@@ -28,9 +28,13 @@ meta > "kmenuedit" > system > dolphin > advanced > shortcut > meta+e > save
 settings > configure kate > fonts & colors > default schema > breeze dark > apply
 
 ## quick launch
+
 rclick > panel options > add widgets > /search > "quick launch" > dclick
+
 /// > drag left
+
 rclick > add launcher > kate, konsole, dolphin, firefox
+
 rclick > panel options > lock widgets
 
 ## ssh
