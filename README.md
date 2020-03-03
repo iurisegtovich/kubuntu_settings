@@ -43,6 +43,8 @@ https://superuser.com/questions/518268/stopping-people-from-sshing-into-my-ubunt
 
 do NOT install "openssh-server"
 
+for users with weak password
+
 ```
 Command 'sshd' not found, but can be installed with:
 
