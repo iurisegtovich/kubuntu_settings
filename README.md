@@ -43,9 +43,9 @@ https://superuser.com/questions/518268/stopping-people-from-sshing-into-my-ubunt
 
 do NOT install "openssh-server"
 
-'''
+```
 Command 'sshd' not found, but can be installed with:
 
 sudo apt install openssh-server
 
-'''
+```
